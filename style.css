@@ -4,6 +4,8 @@ body {
      background: linear-gradient(135deg, #1f4037, #99f2c8);
      color: white;
      display: flex;
-     
-
+     justify-content: center;
+     align-items:center;
+     align-item: center;
+     height: 100vh;
 }
