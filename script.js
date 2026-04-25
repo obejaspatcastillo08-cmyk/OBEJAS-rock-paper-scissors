@@ -14,3 +14,7 @@ const computerChoice=choices[Math.floor(Math.random()*3)];
 
 document.getElementById("user-choice").textContent=emojis[userChoice];
 document.getElementById("computer-choice").textContent=emojis[computerChoice];
+
+let resilt="";
+
+
