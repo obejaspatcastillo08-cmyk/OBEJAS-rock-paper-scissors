@@ -67,5 +67,11 @@ h1{
 }
 
 #reset{
-    
+    margin-top: 15px;
+    padding: 8px 15px;
+    border: none;
+    border-radius:10px;
+    background: #ff4b5c;
+    color: white;
+    cursor: pointer;
 }
