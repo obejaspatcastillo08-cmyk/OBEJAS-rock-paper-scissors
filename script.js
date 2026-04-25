@@ -9,3 +9,5 @@ function play(userchoice){
     scissors:"✌️"  
   };
 }
+
+const computerChoice=choices[Math.floor(Math.random()*3)];
