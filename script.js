@@ -29,4 +29,8 @@ if (userChoice == computerChoice) {
   result = "Computer Wins!";
 }
 
+document.getElementById("result").textContent=result;
+document.getElementById("user-score").textContent=userScore;
+document.getElementById("computer-score").textContent=computerScore;
+
 
